@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowAnimationStyle">@anim/layout_animation</item>
+    </style>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+</resources>
